@@ -1,0 +1,17 @@
+{
+  "name": "exemplo-browser-sync",
+  "version": "1.0.0",
+  "description": "exemplo de página usando browser-sync, gulp e express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bruna escudelario",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.23.6",
+    "express": "^4.16.3",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1"
+  }
+}
